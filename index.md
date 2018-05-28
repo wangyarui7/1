@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+my name is Wangyarui.
 
-You can use the [editor on GitHub](https://github.com/wangyarui7/1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a sophomore studying in Communication University of China.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I major in photography.
+I come from Qingdao Shandong province.
+I am fond of watching films and listening to music.
 
 ```markdown
 Syntax highlighted code block
